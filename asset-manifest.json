@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DateCompetition/static/css/main.f855e6bc.css",
+    "main.js": "/DateCompetition/static/js/main.3b880a01.js",
+    "static/js/787.6a246f80.chunk.js": "/DateCompetition/static/js/787.6a246f80.chunk.js",
+    "static/media/logo.svg": "/DateCompetition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DateCompetition/index.html",
+    "main.f855e6bc.css.map": "/DateCompetition/static/css/main.f855e6bc.css.map",
+    "main.3b880a01.js.map": "/DateCompetition/static/js/main.3b880a01.js.map",
+    "787.6a246f80.chunk.js.map": "/DateCompetition/static/js/787.6a246f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b880a01.js"
+  ]
+}
